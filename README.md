@@ -1,18 +1,6 @@
 # Collab
-Testing forks and branches haha!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Repository for collaboration
+
+Testing forks and branches haha
+
+Testing pull requests.
